@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# App-class.js
+# SearchBar-class.js
+
 # testing
 /coverage
 
